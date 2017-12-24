@@ -1,0 +1,1 @@
+window.onload=function(){$("#head").load("./header.html"),$("#content").load("./home.html"),$("#foot").load("./footer.html"),$.getScript("../public/js/main.js")};
